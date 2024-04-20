@@ -14,4 +14,4 @@ Welcome to a personal portfolio website! This is where I showcase a friend's cod
 
 - **Contact Me:** Got questions, feedback, or just want to say hi? Drop Neo a message through the contact form. 
 
-HOPE YOU ENJOY THE PORTOFOLIO
+HOPE YOU ENJOY THE PORTFOLIO
