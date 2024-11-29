@@ -8,6 +8,7 @@ Welcome to a personal portfolio website! This is where I showcase a friend's cod
 
 - **About Me:** Get to know the person behind the code - that's NEO! I'll tell you a bit about them and their journey in the world of web development.
 
+
 - **Projects:** Take a tour through their projects gallery. Each project is like complete with its own story and challenges.
 
 - **Certificates:**  section for a quick rundown of skills and experiences.
